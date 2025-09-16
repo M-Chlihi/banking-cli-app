@@ -7,7 +7,7 @@ It’s a small, fun, and educational project for anyone who wants to see how ban
 
 ---
 
-## ✨ Features
+##  Features : 
 
 * ✅ Create accounts with unique account numbers
 * 🔒 Set a personal 4-digit PIN for authentication
