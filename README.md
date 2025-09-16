@@ -66,7 +66,6 @@ make run
 c-banking-app/
 
 ├── src/
-
 │   └── banking.c        
 ├── data/                
 │   ├── accounts.txt     
