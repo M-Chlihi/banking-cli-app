@@ -38,7 +38,7 @@ Think of it as your mini “real-world banking system” without the stress of a
 Clone the repo:
 
 ```bash
-git clone https://github.com/yourusername/c-banking-app.git
+git clone https://github.com/M-Chlihi/c-banking-app.git
 cd c-banking-app
 ```
 
