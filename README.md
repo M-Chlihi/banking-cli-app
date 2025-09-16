@@ -64,7 +64,9 @@ make run
 
 ## 📂 Project Structure
 c-banking-app/
+
 ├── src/
+
 │   └── banking.c        
 ├── data/                
 │   ├── accounts.txt     
